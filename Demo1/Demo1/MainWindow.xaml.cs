@@ -29,5 +29,10 @@ namespace Demo1
             MessageBox.Show(
                 "Thong Bao", "Xin chao moi nguoi");
         }
+        private void BtnHello_Click(object sender)
+        {
+            MessageBox.Show(
+                "Thong Bao", "Hello");
+        }
     }
 }

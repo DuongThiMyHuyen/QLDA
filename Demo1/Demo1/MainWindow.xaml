@@ -12,5 +12,10 @@
             Height="100"
             Content="Show"
             Click="BtnShow_Click"/>
+        <Button
+            Width="35"
+            Height="100"
+            Content="Hello"
+            Click="BtnHello_Click" RenderTransformOrigin="2.637,1.13" Margin="441,160,317.6,160"/>
     </Grid>
 </Window>
