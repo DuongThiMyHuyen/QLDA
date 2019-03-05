@@ -24,5 +24,10 @@ namespace Demo1
         {
             InitializeComponent();
         }
+        private void BtnShow_Click(object sender)
+        {
+            MessageBox.Show(
+                "Thong Bao", "Xin chao moi nguoi");
+        }
     }
 }
